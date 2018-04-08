@@ -4,6 +4,8 @@ Controls and handles data of nested sets in MySQL/SQLite Database and works with
 ## Demo
 http://tree-test.wudablog.de1.cc/
 
+![Overview](screen_overview.PNG)
+
 ## Requirements
 - SQLite3 Support
 - PHP
